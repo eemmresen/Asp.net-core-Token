@@ -1,2 +1,2 @@
 # Asp.net-core-Token
-emre
+Token bazlı kimlik doğrulama ve diğer temel controller ve database işlemleri
